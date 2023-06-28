@@ -88,6 +88,7 @@ class Queue:
             print('Mohon maaf pilihan yang anda masukkan salah')
             print('Tekan [enter] untuk kembali ke Menu')
             input()
+
             self.menu()
 
 q= Queue()
